@@ -4,16 +4,16 @@
 
 # BALA M 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=B.Tech+IT+Student+%7C+Class+of+2025;Web+Developer+%26+Frontend+Enthusiast;Building+with+Django+%26+JavaScript;Open+to+Internships+%26+Freelance+Work)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=B.E+ECE+Student+%7C+Web+Developer+%26+Frontend+Enthusiast;JavaScript;Open+to+Internships+%26+Freelance+Work)](https://git.io/typing-svg)
 
 <p>
-  <a href="https://www.linkedin.com/in/chandru-k2006/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:chandru.k1282006@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/balamuralithran/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:mtharan268@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://gradify-cyzuyttbe-chandru-ks-projects.vercel.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
   <a href="https://github.com/chandru8428"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
-<img src="https://komarev.com/ghpvc/?username=chandru8428&label=Profile+Views&color=58A6FF&style=flat" alt="chandru8428" />
+<img src="https://komarev.com/ghpvc/?username=bala172007&label=Profile+Views&color=58A6FF&style=flat" alt="bala172007" />
 
 </div>
 
