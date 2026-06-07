@@ -4,7 +4,7 @@
 
 # BALA M 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=B.E+ECE+Student+%7C+Web+Developer;Frontend+Enthusiast+JavaScript;Open+to+Internships+%26+Freelance+Work)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=B.E+ECE+Student+%7C+Web+Developer;Frontend+Enthusiast+|+JavaScript;Open+to+Internships+%26+Freelance+Work)](https://git.io/typing-svg)
 
 <p>
   <a href="https://www.linkedin.com/in/balamuralithran/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
