@@ -102,7 +102,7 @@ I am a Second-year B.E Electronics and Communication student at Saveetha Enginee
 | Platform | Link |
 |----------|------|
 | Email | mtharan268@gmail.com |
-| LinkedIn | [linkedin.com/in/chandru-k2006](https://www.linkedin.com/in/chandru-k2006/) |
+| LinkedIn | [linkedin.com/in/chandru-k2006](https://www.linkedin.com/in/bala172007/) |
 | Portfolio | [gradify on Vercel](https://gradify-cyzuyttbe-chandru-ks-projects.vercel.app) |
 | Location | Tamil Nadu, India |
 
