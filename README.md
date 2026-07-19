@@ -10,7 +10,7 @@
 
 <p>
   <a href="https://github.com/bala172007"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/bala172007/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/bala_muralitharan"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://gradify-cyzuyttbe-chandru-ks-projects.vercel.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
   <a href="mailto:mtharan268@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
@@ -23,7 +23,7 @@
 
 ## About Me
 
-I'm a second-year **B.E Electronics and Communication Engineering** student at Saveetha Engineering College, Chennai, working toward becoming a **Frontend / Full Stack Web Developer**. I enjoy building clean, responsive interfaces and I'm steadily strengthening my backend and database skills alongside it.
+I'm a thrid-year **B.E Electronics and Communication Engineering** student at Saveetha Engineering College, Chennai, working toward becoming a **Frontend / Full Stack Web Developer**. I enjoy building clean, responsive interfaces and I'm steadily strengthening my backend and database skills alongside it.
 
 Currently looking for:
 - 🎯 Web Development Internship
@@ -189,7 +189,7 @@ A gaming-themed responsive website with custom animations and a modern UI.
 | Platform | Link |
 |----------|------|
 | 📧 Email | mtharan268@gmail.com |
-| 💼 LinkedIn | [linkedin.com/in/bala172007](https://www.linkedin.com/in/bala172007/) |
+| 💼 LinkedIn | [linkedin.com/in/bala172007](https://www.linkedin.com/in/bala_muralitharan) |
 | 🐙 GitHub | [github.com/bala172007](https://github.com/bala172007) |
 | 🌐 Portfolio | [View Portfolio](https://gradify-cyzuyttbe-chandru-ks-projects.vercel.app) |
 | 📍 Location | Tamil Nadu, India |
