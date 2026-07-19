@@ -86,14 +86,14 @@ Currently looking for:
 <tr>
 <td width="50%" valign="top">
 
-### 🎓 Gradify
+### 🎓 ECE-Acadamic-Tracker
 
-A modern educational web platform with a clean UI, responsive design, PostgreSQL database integration, authentication, and production deployment on Vercel.
+A modern educational web platform with a clean UI, responsive design, PostgreSQL database integration, authentication, and production deployment.
 
 **Tech:** HTML · CSS · JavaScript · Python · PostgreSQL
 
-<a href="https://github.com/chandru8428/gradify"><img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-<a href="https://gradify-cyzuyttbe-chandru-ks-projects.vercel.app"><img src="https://img.shields.io/badge/Live%20Demo-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+<a href="https://github.com/bala172007/ECE-Acadamic-Tracker"><img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://bala172007.github.io/ECE-Acadamic-Tracker/"><img src="https://img.shields.io/badge/Live%20Demo-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
 
 </td>
 <td width="50%" valign="top">
